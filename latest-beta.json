@@ -1,6 +1,11 @@
 {
-  "version": "1.3.5-beta.1",
-  "notes": "Bug fixes and improvements",
-  "url": "https://www.dropbox.com/scl/fi/qvag1n6woovs692wvzsej/CapStudio_Setup_1.3.5-beta.1.exe?rlkey=upaid0ttrgok9ntip1ina8tj6&dl=1",
-  "sha256": "9d6d9c03e7f823ab0cd13a3d8a0daf421de479721d50e4882a36750ba1f92395"
+  "version": "1.3.5",
+  "notes": "CapStudio 1.3.5: licensing stability fix for machine identity and activation limits.",
+  "url": "https://www.dropbox.com/scl/fi/02ecldi8qis0yjbg7605h/CapStudio_Setup_1.3.5.exe?rlkey=kxt03k6x4malcyv93gxxlruap&dl=1",
+  "sha256": "2020c8ec866fbeb2df26d5f2891510df3f7f7fb1f24c868886eb3715a2a88896",
+  "signature": {
+    "alg": "ES256",
+    "kid": "1b825814-8171-4897-bf13-2073bbc39c4b",
+    "value": "b1fQFrokfSatnPiKGRQDJg9mlNlAPTSYiVubxHmi3MiDZUHjtAPNapS74Ch1v6HBjz5zR7Tu92Xz4wb0to3oGg"
+  }
 }
