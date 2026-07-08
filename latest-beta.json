@@ -1,11 +1,11 @@
 {
   "version": "1.3.5",
-  "notes": "CapStudio 1.3.5: beta updater bridge, thin installer, resilient transcription model redownload, and fixed future update validation.",
+  "notes": "CapStudio 1.3.5: old-beta updater bridge, thin installer, stale bundled model cleanup, resilient transcription model redownload, and fixed future update validation.",
   "url": "https://www.dropbox.com/scl/fi/v9l930vm5s4z1l5rj9y53/CapStudio_Setup_1.3.5.exe?rlkey=p3jnb9lxy62ky1sbv9t4eamu4&dl=1",
-  "sha256": "6e75c44b5cc1a4a43359ac1b43fd2b90880b87862b1de2abfe7344fc57b62937",
+  "sha256": "e5796a271b45f34b32e5c559f3c3d398dd40d62678fdcbcc455df2486d9c0e5e",
   "signature": {
     "alg": "ES256",
     "kid": "1b825814-8171-4897-bf13-2073bbc39c4b",
-    "value": "11aR5u9GDBioZb1fBB1sb9VeHLKdGcetArQnJln09Sji00IAcx8pmpSyo1CRqzMcEEYuk_1413deEfTGRR7NDw"
+    "value": "9d6oMLrpSN5chJgXB5IfNcj08F1t0ZogsES7IMzcSjKRgfLKHX1dgjUNh2HbsV4m9h8WSJTxTfyrHFQC_k9z6w"
   }
 }
