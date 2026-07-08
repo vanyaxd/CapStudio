@@ -1,11 +1,11 @@
 {
   "version": "1.3.5",
-  "notes": "CapStudio 1.3.5: licensing stability fix for machine identity and activation limits.",
-  "url": "https://www.dropbox.com/scl/fi/02ecldi8qis0yjbg7605h/CapStudio_Setup_1.3.5.exe?rlkey=kxt03k6x4malcyv93gxxlruap&dl=1",
-  "sha256": "2020c8ec866fbeb2df26d5f2891510df3f7f7fb1f24c868886eb3715a2a88896",
+  "notes": "CapStudio 1.3.5: thin update installer with resilient transcription model redownload and verified installer handoff.",
+  "url": "https://www.dropbox.com/scl/fi/v9l930vm5s4z1l5rj9y53/CapStudio_Setup_1.3.5.exe?rlkey=p3jnb9lxy62ky1sbv9t4eamu4&dl=1",
+  "sha256": "ca6e969cbc0dd9d7f3cca8ceb4df08c736b6f22872bc5a5ad877e4139e029794",
   "signature": {
     "alg": "ES256",
     "kid": "1b825814-8171-4897-bf13-2073bbc39c4b",
-    "value": "b1fQFrokfSatnPiKGRQDJg9mlNlAPTSYiVubxHmi3MiDZUHjtAPNapS74Ch1v6HBjz5zR7Tu92Xz4wb0to3oGg"
+    "value": "m6AATIqhH5RAutUL2evNbqe5tp0Y4tkeJ3mCrZK1-buC7OVwePcIiysc93OKtvmRtzyLEulI623rpjX71M4Jlw"
   }
 }
